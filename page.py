@@ -1,5 +1,4 @@
 import streamlit as st
-import numpy as np
 
 def fifo_page_replacement(ref_string,num_frames):
     frames=[]
